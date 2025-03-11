@@ -10,7 +10,7 @@
 - Provide informative insights about customers behavior and corresponding recommendations.
 
 **Dataset:**
-- A dataset simulating retail customer transactions is available on kaggle (https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/data)
+- A dataset simulating retail customer transactions is available on kaggle. (https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/data)
 
 **Deliverable:**
 - A data processing, data analysis using Python.
